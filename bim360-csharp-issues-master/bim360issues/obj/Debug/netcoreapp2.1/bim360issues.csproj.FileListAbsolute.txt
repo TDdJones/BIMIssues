@@ -1,0 +1,56 @@
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.deps.json
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.runtimeconfig.json
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.runtimeconfig.dev.json
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.dll
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.pdb
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.csprojAssemblyReference.cache
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.RazorAssemblyInfo.cache
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.RazorAssemblyInfo.cs
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.AssemblyInfo.cs
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.RazorTargetAssemblyInfo.cache
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.dll
+C:\Users\Test\Desktop\bim360-csharp-issues-master\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.pdb
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.deps.json
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.runtimeconfig.json
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.runtimeconfig.dev.json
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.dll
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.pdb
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.csprojAssemblyReference.cache
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.RazorAssemblyInfo.cache
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.RazorAssemblyInfo.cs
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.AssemblyInfo.cs
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.RazorTargetAssemblyInfo.cache
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.dll
+C:\Users\Test\Desktop\bim360-csharp-issues-master - Copy (2)\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.pdb
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.deps.json
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.runtimeconfig.json
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.runtimeconfig.dev.json
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.dll
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.pdb
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.csprojAssemblyReference.cache
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.RazorAssemblyInfo.cache
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.RazorAssemblyInfo.cs
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.AssemblyInfo.cs
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.RazorTargetAssemblyInfo.cache
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.dll
+C:\Users\Test\Desktop\Issues Tester\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.pdb
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.deps.json
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.runtimeconfig.json
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.runtimeconfig.dev.json
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.dll
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\bin\Debug\netcoreapp2.1\bim360issues.pdb
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.csprojAssemblyReference.cache
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.RazorAssemblyInfo.cache
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.RazorAssemblyInfo.cs
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.AssemblyInfo.cs
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.RazorTargetAssemblyInfo.cache
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.dll
+C:\Users\Test\Desktop\Forge\Final Issues\bim360-csharp-issues-master\bim360issues\obj\Debug\netcoreapp2.1\bim360issues.pdb
