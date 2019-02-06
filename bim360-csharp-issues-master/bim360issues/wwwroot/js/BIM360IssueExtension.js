@@ -232,7 +232,7 @@ BIM360IssueExtension.prototype.createIssue = function () {
 
     // start asking for the push location
     pushPinExtension.startCreateItem({ label: issueLabel, status: 'open', type: 'issues' });
-}
+};
 
 BIM360IssueExtension.prototype.submitNewIssue = function () {
 
@@ -350,6 +350,7 @@ BIM360IssueExtension.prototype.getContainerId = function (href, urn, cb) {
             _this.hubId = res.hubId;
             cb();
         }
+
     });
 }
 
@@ -388,7 +389,7 @@ BIM360IssueExtension.prototype.showIssues = function () {
     var _this = this;
 
     //remove the list of last time
-    var pushPinExtension = _this.viewer.getExtension(_this.pushPinExtensionName);
+    pushPinExtension = _this.viewer.getExtension(_this.pushPinExtensionName);
     pushPinExtension.removeAllItems();
     pushPinExtension.showAll();
     var selected = getSelectedNode();
@@ -405,24 +406,34 @@ BIM360IssueExtension.prototype.showIssues = function () {
         });
 
     var onPushPinCreated = function (event) {
-        if (issueIdsExpired.length <= 0) {
-            pushPinExtension.pushPinManager.removeEventListener(
-                'pushpin.created',
-                onPushPinCreated
-            );
-        }
 
-        console.log('pushpin.created', event);
+        //Dewi's code
+        //if (issueIdsExpired.length <= 0) {
+        //    pushPinExtension.pushPinManager.removeEventListener(
+        //        'pushpin.created',
+        //        onPushPinCreated
+        //    );
+        //}
 
-        var idx = issueIdsExpired.indexOf(event.value.itemData.id);
-        if (idx != -1) {
-            $(event.value.marker).addClass('my-pushpin-billboard-marker');
-            issueIdsExpired.splice(idx, 1);
-        }
+        //console.log('pushpin.created', event);
+
+        //var idx = issueIdsExpired.indexOf(event.value.itemData.id);
+        //if (idx != -1) {
+        //    $(event.value.marker).addClass('my-pushpin-billboard-marker');
+        //    issueIdsExpired.splice(idx, 1);
+        //}
+
+        //Xiaodong's codes
+        var due_date = (new Date(event.value.itemData.due_date)).getTime(); 
+        var current_date = (new Date()).getTime(); 
+        if (due_date < current_date) { 
+            //do the job you need 
+            $(event.value.marker).addClass('my-pushpin-billboard-marker'); 
+        } 
     };
 
-    pushPinExtension.pushPinManager.addEventListener(
-        'pushpin.created',
+    pushPinExtension.addEventListener(
+        Autodesk.BIM360.Extension.PushPin.PUSH_PIN_CREATED_EVENT,
         onPushPinCreated
     );
 
@@ -453,7 +464,10 @@ BIM360IssueExtension.prototype.showIssues = function () {
                 objectId: pushpinAttributes.object_id,
                 viewerState: pushpinAttributes.viewer_state
             });
-        }
+
+             //get the newest pushpin added. attach additional datta explictly. Note: the newest one is indexed with 0. 
+            pushPinExtension.pushPinManager.pushPinList[0].itemData.due_date = issue.attributes.due_date; 
+         }
     });
 }
 
